@@ -1,0 +1,4 @@
+### Basic
+* Image = An image is a read-only template with instructions for creating a Docker container.
+* Containers = A container is a runnable instance of an image. A container is defined by its image as well as any configuration options you provide to it when you create or start it. 
+    * Docker uses a technology called namespaces to provide the isolated workspace called the container. When you run a container, Docker creates a set of namespaces for that container.These namespaces provide a layer of isolation. Each aspect of a container runs in a separate namespace and its access is limited to that namespace.

@@ -1,6 +1,6 @@
 ### Docker.
 * Docker Introduction to Advanced (15-18 hours)
-    - [ ] Docker Architecture & Basic Commands
+    - [X] Docker Architecture & Basic Commands
     - [ ] Dockerfile Writing
     - [ ] Local Environment Using Vagrant
     - [ ] Linux Namespaces
@@ -23,4 +23,4 @@
 * Resourses
     * [Docker cli commands](https://docs.docker.com/engine/reference/)
     * [Docker Tutorial for Beginners | Full Course [2021] - amigoescode](https://www.youtube.com/watch?v=p28piYY_wv8)
-    * [A practical guide on Docker with projects | Docker Course - hitesh chowdury](https://www.youtube.com/watch?v=rr9cI4u1_88)
+    * **[A practical guide on Docker with projects | Docker Course - hitesh chowdury](https://www.youtube.com/watch?v=rr9cI4u1_88)**
